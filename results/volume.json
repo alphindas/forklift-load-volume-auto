@@ -1,0 +1,18 @@
+{
+ "crates": "9 x 6 x 4",
+ "depth_m": 2.4,
+ "length_m": 2.4,
+ "footprint_m2": 5.76,
+ "height_median_m": 1.431,
+ "solid_box_m3": 8.24,
+ "volume_m3": {
+  "median": 7.77,
+  "p10": 7.31,
+  "p90": 8.25
+ },
+ "assumptions": [
+  "front tyre about 0.822 m (datasheet) is the ruler",
+  "crates fill the pallets: 9 per EUR pallet layer",
+  "fill 90-100 %"
+ ]
+}

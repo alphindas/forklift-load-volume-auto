@@ -1,0 +1,6 @@
+*.mp4
+*.webm
+*.pt
+*.ts
+__pycache__/
+.venv/
